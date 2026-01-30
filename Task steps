@@ -1,0 +1,8 @@
+Steps by step process of the project.
+
+Donwload link for the data set: https://github.com/Ernestug/Global-Superstore/blob/main/SuperStoreOrders%20(Before%20cleaning).csv
+STEP 1 — Create Database
+CREATE DATABASE superstore_dw;
+USE superstore_dw;
+
+STEP 2 — Create Staging Table (Raw Data Load)
